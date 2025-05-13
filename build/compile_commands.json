@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/killswitch/RaylibProjects/OnlineTankBattle/build",
+  "command": "/usr/bin/gcc  -I/home/killswitch/raylib/src -g -std=gnu99 -o CMakeFiles/game.dir/main.c.o -c /home/killswitch/RaylibProjects/OnlineTankBattle/main.c",
+  "file": "/home/killswitch/RaylibProjects/OnlineTankBattle/main.c"
+},
+{
+  "directory": "/home/killswitch/RaylibProjects/OnlineTankBattle/build",
+  "command": "/usr/bin/gcc  -I/home/killswitch/raylib/src -g -std=gnu99 -o CMakeFiles/game.dir/bullet.c.o -c /home/killswitch/RaylibProjects/OnlineTankBattle/bullet.c",
+  "file": "/home/killswitch/RaylibProjects/OnlineTankBattle/bullet.c"
+},
+{
+  "directory": "/home/killswitch/RaylibProjects/OnlineTankBattle/build",
+  "command": "/usr/bin/gcc  -I/home/killswitch/raylib/src -g -std=gnu99 -o CMakeFiles/game.dir/player.c.o -c /home/killswitch/RaylibProjects/OnlineTankBattle/player.c",
+  "file": "/home/killswitch/RaylibProjects/OnlineTankBattle/player.c"
+}
+]

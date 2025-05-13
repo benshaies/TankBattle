@@ -1,0 +1,3 @@
+/home/killswitch/RaylibProjects/OnlineTankBattle/build/CMakeFiles/game.dir
+/home/killswitch/RaylibProjects/OnlineTankBattle/build/CMakeFiles/edit_cache.dir
+/home/killswitch/RaylibProjects/OnlineTankBattle/build/CMakeFiles/rebuild_cache.dir
